@@ -4,7 +4,6 @@ The goal of this project was to analyze subscription data and determine answers 
 - After how many months do customers typically cancel their subscriptions?
 - What is the expected subscription revenue over the next 12 months?
 - How long does it take for the 2024 and 2025 customer cohorts to reach the CAC break-even point?
-<p>See below for the results of my analysis.</p>
 ### Customer Cohort Analysis
 Customers tend to cancel their subscriptions after roughly the 2 month mark. This is supported by the most significant dropoff in active customers between month 2 and month 3. As such, I recommend we target re-subscription ads toward the middle of the 2-month mark.
 ### Revenue Forecast
